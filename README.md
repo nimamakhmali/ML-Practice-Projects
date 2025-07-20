@@ -10,17 +10,17 @@ This repository contains a collection of small machine learning projects and exp
 - Real-world datasets (from Kaggle, UCI, etc.)
 
 ## 📁 Structure
-ml-practice-projects/
-│
-├── project-1-()/
-│   ├── 
-│   ├── notebook.ipynb
-│   └── README.md
-│
-├── project-2-()/
-│   ├── notebook.ipynb
-│   └── README.md
-│
-├── ...
-│
-└── README.md
+  ml-practice-projects/
+  │
+  ├── project-1-()/
+  │   ├── 
+  │   ├── notebook.ipynb
+  │   └── README.md
+  │
+  ├── project-2-()/
+  │   ├── notebook.ipynb
+  │   └── README.md
+  │
+  ├── ...
+  │
+  └── README.md
