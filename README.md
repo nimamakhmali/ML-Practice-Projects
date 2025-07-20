@@ -10,6 +10,8 @@ This repository contains a collection of small machine learning projects and exp
 - Real-world datasets (from Kaggle, UCI, etc.)
 
 ## 📁 Structure
+/bash
+
   ml-practice-projects/
   │
   ├── project-1-()/
@@ -24,3 +26,4 @@ This repository contains a collection of small machine learning projects and exp
   ├── ...
   │
   └── README.md
+/
